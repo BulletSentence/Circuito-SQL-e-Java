@@ -33,7 +33,7 @@ public class Main {
 //            Piloto piloto = new Piloto(2,1,2, "Leonardo Almeida", 1999);
 //            pilotoDAO.inserirPiloto(piloto);
 
-            Calendar cal = Calendar.getInstance();
+                    Calendar cal = Calendar.getInstance();
             cal.set(2018, Calendar.JANUARY, 1);
 
             Prova prova = new Prova(5, 4, cal);
